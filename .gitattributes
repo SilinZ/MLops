@@ -1,0 +1,2 @@
+hw1_dvc/models/*.pkl filter=lfs diff=lfs merge=lfs -text
+hw1_dvc/dvc_store/files/md5/* filter=lfs diff=lfs merge=lfs -text
